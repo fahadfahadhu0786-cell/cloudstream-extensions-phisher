@@ -25,7 +25,7 @@ import com.lagradost.cloudstream3.utils.loadExtractor
 import org.jsoup.nodes.Element
 
 class AnimeWorld : MainAPI() {
-    override var mainUrl = "https://myanimeworld.in"
+    override var mainUrl = "https://animejoker.in"
     override var name = "AnimeWorld"
     override val hasMainPage = true
     override var lang = "hi"
